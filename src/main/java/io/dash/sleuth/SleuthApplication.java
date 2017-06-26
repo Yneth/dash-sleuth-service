@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package io.dash.zipkin;
+package io.dash.sleuth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
